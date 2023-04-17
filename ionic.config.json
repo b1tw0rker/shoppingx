@@ -1,0 +1,8 @@
+{
+  "name": "shoppingx",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "81bc2f65"
+}
